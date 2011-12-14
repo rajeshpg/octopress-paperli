@@ -1,4 +1,4 @@
-This is simple plugin to embed paper.li headlines widget in the sidebar of an [Octopress](http://octopress.org) blog.
+This is a simple plugin to embed paper.li headlines widget in the sidebar of an [Octopress](http://octopress.org) blog.
 
 # Installation
 ### Step 1

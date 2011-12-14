@@ -2,7 +2,7 @@ This plugin displays paper.li newspaper in the sidebar.
 
 # Installation
 ### Step 1
-Download paperli.html and place it in source/\_includes/asides folder
+Download paperli.html and place it in __source/\_includes/asides__ folder
 
 ### Step 2
 In __\_config.yml__ add the following entries

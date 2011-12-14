@@ -1,4 +1,4 @@
-This plugin displays paper.li newspaper in the sidebar.
+This plugin displays paper.li newspaper in the sidebar of [Octopress](http://octopress.org) blog.
 
 # Installation
 ### Step 1

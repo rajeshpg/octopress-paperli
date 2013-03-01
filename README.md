@@ -7,8 +7,8 @@ Download [paperli.html](https://raw.github.com/rajeshpg/octopress-paperli/master
 ### Step 2
 In `_config.yml` add the following entries
 
-    paperli_user_name: \<your paper.li userid\>  
-    paperli_paper_id: \<paper id, if you have multiple papers, else not required\>  
+    paperli_user_name: <your paper.li userid>  
+    paperli_paper_id: <paper id, if you have multiple papers, else not required>  
 
 
 ### Step 3

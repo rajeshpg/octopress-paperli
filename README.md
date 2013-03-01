@@ -2,16 +2,17 @@ This is a simple plugin to embed paper.li headlines widget in the sidebar of an 
 
 # Installation
 ### Step 1
-Download paperli.html and place it in __source/\_includes/asides__ folder
+Download [paperli.html](https://raw.github.com/rajeshpg/octopress-paperli/master/paperli.html) and place it in `source/\_includes/asides` folder
 
 ### Step 2
-In __\_config.yml__ add the following entries
+In `_config.yml` add the following entries
 
-paperli_user_name: \<your paper.li userid\>  
-paperli_paper_id: \<paper id, if you have multiple papers, else not required\>  
+    paperli_user_name: \<your paper.li userid\>  
+    paperli_paper_id: \<paper id, if you have multiple papers, else not required\>  
 
 
 ### Step 3
-In __\_config.yml__ add __paperli.html__ to the default_asides list  
+In `_config.yml` add `paperli.html` to the `default_asides` list  
 
-default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, __asides/paperli.html__, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+    default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.html, 
+    asides/paperli.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
